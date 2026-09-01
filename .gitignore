@@ -1,0 +1,4 @@
+bin/
+*.exe
+.DS_Store
+go-backend-roadmap.md
